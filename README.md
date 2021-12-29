@@ -26,7 +26,7 @@
 ## 🔥 Streak stats
 <p align="center">
   <a href="https://github.com/ankitn1311/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil-03&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitn1311&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
@@ -49,7 +49,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details> 
 
-<a href="https://github.com/sushil-03/github-readme-activity-graph"><img alt="Sushil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sushil-03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ankitn1311/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitn1311&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 <!-- *************************************************************************************************************************** -->
