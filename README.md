@@ -1,126 +1,18 @@
-<h3 align="center">
-  Welcome to Ankit Negi profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ankit!
+<a href="https://www.linkedin.com/in/ankitn1311/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/ankitn1311">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:ankitn1311@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.instagram.com/ankit__negi/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Self-taught%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+<br />
+<br />
 
-<p align="center">
-  <a href="https://twitter.com/ankitn1311"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Dev.to" title="Website" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://leetcode.com/ankitn1311/"><img width="32px"  title="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-<!--  Codechef  -->
-  
-<!--    -->
-</p>
-
-
-
-<!-- ***************************************************** Streak Status  ******************************************         -->
-## 🔥 Streak stats
-<p align="center">
-  <a href="https://github.com/ankitn1311/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitn1311&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-<!-- *************************************************************************************************************************** -->
-
-<!--  **************************************************GITHUB STATS*********************************************************-->
-## 📊 Github stats
-
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/ankitn1311/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ankitn1311&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="50%" >
-  </a>
-  <a href="https://github.com/ankitn1311/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitn1311&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="40%">
-  </a>
-  </p>  
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details> 
-
-<a href="https://github.com/ankitn1311/github-readme-activity-graph"><img alt="Ankit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitn1311&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-<!-- *************************************************************************************************************************** -->
-<!-- *********************************************************TOOL********************************************************************** -->
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
-
-<p align="center">
-  <!--   <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
-  </a> -->
-  <a href="https://www.cplusplus.com/doc/tutorial/">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  </a>
-  <a href="https://html.com/">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  </a> 
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a>
-  <br>
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  </a>
-  <a href="https://www.json.org/json-en.html">
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
-  </a>
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p align="center">
-   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
-  </a>
-   <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/-Express-green?&style=for-the-badge&logo=MongoDB&logoColor=white">
-  </a>
-</p>
-
-### 🗄️ Databases and cloud hosting
-
-<p align="center">
-    <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/-MongoDb-orange?&style=for-the-badge&logo=MongoDB&logoColor=white">
-    </a>
-</p>
-
-### 💻 Software and tools
-
-<p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  </a>
-</p>
-
-
-
-
-## 🤝 Socials:
-  <p align="center">
-    <a href="https://twitter.com/ankitn1311">
-      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/ankitn1311/">
-      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </p>
-</h1>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankitn1311.ankitn1311)
