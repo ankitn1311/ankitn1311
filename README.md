@@ -2,6 +2,15 @@
 
 ### Full Stack Web Developer
 
+## Technologies
+* Nestjs
+* Nextjs
+* Typescript
+* Mongodb
+* Tailwind
+* Material UI
+* Vim
+
 <a href="https://www.linkedin.com/in/ankitn1311/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
