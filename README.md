@@ -4,6 +4,7 @@
 
 ## Technologies
 * Nestjs
+* React, Redux
 * Nextjs
 * Typescript
 * Mongodb
