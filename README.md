@@ -1,10 +1,11 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm Ankit!
+## Hey, I'm Ankit!
 
 ### Full Stack Web Developer
 
 ## Technologies
 * Nestjs
 * React, Redux
+* React Native, Flutter
 * Nextjs
 * Typescript
 * Mongodb
