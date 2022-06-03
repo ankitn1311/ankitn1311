@@ -1,17 +1,28 @@
-## Hey, I'm Ankit!
+## Hey, I'm Ankit! - Full Stack Web Developer
 
-### Full Stack Web Developer
+## Languages
+* Typescript, Javascript
+* Dart
+* C++
 
 ## Technologies
-* Nestjs
-* React, Redux
-* React Native, Flutter
-* Nextjs
-* Typescript
-* Mongodb
-* Tailwind
-* Material UI
+### Web
+- Frontend
+  * Nextjs
+  * React, Redux
+  * Tailwind, Material UI, Bootstrap, etc.
+- Backend
+  * Nestjs
+  * Express
+  * Mongodb
+
+### Mobile
+* React Native
+* Flutter
+
+## Tools
 * Vim
+* Macos/Linux/Windows
 
 <a href="https://www.linkedin.com/in/ankitn1311/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
