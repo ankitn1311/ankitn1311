@@ -2,7 +2,6 @@
 
 ## Languages
 * Typescript, Javascript
-* Dart
 * C++
 
 ## Technologies
@@ -18,7 +17,6 @@
 
 ### Mobile
 * React Native
-* Flutter
 
 ## Tools
 * Vim
