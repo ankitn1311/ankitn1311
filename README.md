@@ -2,17 +2,14 @@
 
 ## Languages
 * Typescript, Javascript
-* C++
 
 ## Technologies
 ### Web
 - Frontend
-  * Nextjs
-  * React, Redux
+  * Nextjs, React, Redux
   * Tailwind, Material UI, Bootstrap, etc.
 - Backend
   * Nestjs
-  * Express
   * Mongodb
 
 ### Mobile
