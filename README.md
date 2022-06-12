@@ -1,14 +1,14 @@
 ## Hey, I'm Ankit! - Full Stack Web Developer
 
-## Languages
+### Languages
 * Typescript, C++
 
-## Technologies
+### Technologies
 * Frontend - Nextjs, React, Redux, Tailwind, Material UI, Bootstrap.
 * Backend - Nestjs, Mongodb
 * Mobile - React Native
 
-## Tools
+### Tools
 * Vim, Macos/Linux/Windows
 
 <a href="https://www.linkedin.com/in/ankitn1311/">
