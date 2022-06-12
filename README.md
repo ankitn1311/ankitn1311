@@ -1,7 +1,7 @@
 ## Hey, I'm Ankit! - Full Stack Web Developer
 
 ## Languages
-* Typescript, Javascript
+* Typescript, C++
 
 ## Technologies
 * Frontend - Nextjs, React, Redux, Tailwind, Material UI, Bootstrap.
