@@ -4,20 +4,12 @@
 * Typescript, Javascript
 
 ## Technologies
-### Web
-- Frontend
-  * Nextjs, React, Redux
-  * Tailwind, Material UI, Bootstrap, etc.
-- Backend
-  * Nestjs
-  * Mongodb
-
-### Mobile
-* React Native
+* Frontend - Nextjs, React, Redux, Tailwind, Material UI, Bootstrap.
+* Backend - Nestjs, Mongodb
+* Mobile - React Native
 
 ## Tools
-* Vim
-* Macos/Linux/Windows
+* Vim, Macos/Linux/Windows
 
 <a href="https://www.linkedin.com/in/ankitn1311/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
