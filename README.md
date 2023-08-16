@@ -11,7 +11,7 @@
 ### Tools
 * Vim, Macos/Linux/Windows
 
-<a href="https://www.linkedin.com/in/ankitn1311/">
+<a href="https://www.linkedin.com/in/ankitn1311/"  target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 
@@ -19,7 +19,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<a href="https://ankit-negi-portfolio.vercel.app/">
+<a href="https://ankit-negi-portfolio.vercel.app/" target="_blank">
   <p>Portfolio link</p>
 </a>
 
