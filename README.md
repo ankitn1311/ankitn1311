@@ -19,6 +19,10 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<a href="https://ankit-negi-portfolio.vercel.app/">
+  <p>Portfolio link</p>
+</a>
+
 <br />
 <br />
 
